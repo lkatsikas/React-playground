@@ -1,13 +1,21 @@
-# A Complete Intro to React
+# React-Playground
 
-Welcome to a complete intro to React! The site actual workshop material for this repo can be found [here][gh-page]. On the master branch you will find the completed project. On the start branch you will find the barebones boilerplate of the project designed to help you get started.
+React client playground application.
 
-## Contributing
+## Getting Started
 
-Please contribute, file issues, and make PRs. More than anything I'm sure there are typos abounding.
+### Dependencies
+
+webpack, babel
+
+
+
+## Authors
+
+Contributors names and contact info
+
+* [lkatsikas](https://github.com/lkatsikas)
 
 ## License
 
-MIT
-
-[gh-page]: http://btholt.github.io/complete-intro-to-react/
+This project is licensed under the MIT License - see the LICENSE.md file for details
